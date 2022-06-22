@@ -1,0 +1,8 @@
+**/.terraform
+**/aws-key
+**/aws-key.pub
+**/*.tfstate
+**/*.tfstate.backup
+**/.terraform.lock.hcl
+**/*.out
+**/*.txt
